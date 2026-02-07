@@ -1,0 +1,57 @@
+*exp-1
+calc(10,5,S,D,P,Q).
+
+*exp-2
+add (12,29,S).
+
+*exp-3
+add_mul(4, 5, S, M).
+
+*exp-4
+gcd(36, 24, G).
+
+*exp-5
+greatest(15, 9, G).
+
+*exp-6 (result-builder)
+result.
+
+*exp-7
+father(john,tom).
+
+*exp-8
+fib(7,F).
+
+*exp-9
+likes(ram,coffee).
+likes(ram,rita).
+likes(kamal,tea).
+
+*exp-10
+father(ram, shyam).
+mother(sita, shyam).
+son(amit, shyam).
+grandfather(ram,amit).
+ancestor(ram,amit).
+
+*exp-11
+dfs(a,c)
+dfs(b,f)
+
+*exp-12
+hanoi(3, a, c, b).
+
+*exp-13
+
+
+*exp-14
+ask.
+diagnose.
+
+*exp-15
+run_monkey_banana.
+
+*exp-16
+
+
+
